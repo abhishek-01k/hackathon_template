@@ -5,7 +5,15 @@ Uses NextJS, Tailwind CSS, Shadcn template, Rainbowkit, ethers V6, wagmi and vie
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npx create-next-app -e https://github.com/abhishek-01k/hackathon_template
+```
+
+```
+yarn 
+```
+
+```
+yarn run dev
 ```
 
 ## Features
