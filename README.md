@@ -2,6 +2,8 @@
 
 Uses NextJS, Tailwind CSS, Shadcn template, Rainbowkit, ethers V6, wagmi and viem
 
+- This is majorly for solving problem of getting signer and provider using ethers v6 and v5
+
 ## Usage
 
 ```bash
