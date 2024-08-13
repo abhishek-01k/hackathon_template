@@ -1,7 +1,10 @@
 import Link from "next/link"
 
+import { getEthersProvider } from "@/config/providerConfig"
 import { siteConfig } from "@/config/site"
-import { buttonVariants } from "@/components/ui/button"
+import { config } from "@/config/walletConfig"
+import { Button, buttonVariants } from "@/components/ui/button"
+import HomePage from "@/components/homepage"
 
 export default function IndexPage() {
   return (
@@ -34,6 +37,7 @@ export default function IndexPage() {
           GitHub
         </Link>
       </div>
+      <HomePage />
     </section>
   )
 }
