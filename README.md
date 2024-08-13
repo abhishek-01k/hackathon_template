@@ -1,6 +1,6 @@
-# next-template
+# Hackathon-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Uses NextJS, Tailwind CSS, Shadcn template, Rainbowkit, ethers V6, wagmi and viem
 
 ## Usage
 
